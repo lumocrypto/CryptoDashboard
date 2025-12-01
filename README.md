@@ -9,3 +9,8 @@ Streamlit-based dashboard that pulls public market data (Bybit) and computes bre
 5. Execute the runner.txt file
 
 Be aware that the script takes a while to load.
+
+This Script was vibe coded, and as such there may be errors, if someone wants to improve script, just make a pull request or conatact me on twitter: @lumocrypto
+
+# Disclamer:
+Nothing in this repository constitutes financial advice (and therefore, please use at your own risk). It is tailored primarily for learning purposes.
